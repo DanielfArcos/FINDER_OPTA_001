@@ -4,6 +4,9 @@ Essa programação foi desenvolvida em C++ para o Finder OPTA com o principal ob
 
 > [!NOTE]
 > Para programação chamada OPTA-PROG-PROCESSOR-INTERACTION-M7, siga estas configurações:
+> 
 > Tools > Flash split > 1MB M7 + 1MB M4
+> 
 > Tools > Target core > Main Core
+> 
 > Depois de terminar de configurar isso, você pode enviar a programação para o produto.
