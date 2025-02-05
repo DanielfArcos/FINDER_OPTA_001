@@ -1,4 +1,6 @@
-# C-_FINDER_OPTA_001
+#FINDER_OPTA_001
+
+# c++
 
 Essa programação foi desenvolvida em C++ para o Finder OPTA com o principal objetivo de fazer interação entre os núcleos do produto (M7 e M7). Onde um pulso no botão do usuário do produto será interpretado no núcleo M7, este pulso é processado e o núcleo M4 executa uma função com base neste pulso. Neste exemplo de demonstração, o LED_D0 é ativado com base na atuação do botão do usuário OPTA.
 
